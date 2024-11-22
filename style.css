@@ -1,0 +1,232 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  
+}
+.container{
+	width: 100;
+	height: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.login{
+	width:412px ;
+	height:917px ;
+	border:solid 1px #EFD3DD;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color:#EFD3DD;
+}
+.email input{
+	width:315px;
+	height:55px ;
+	border: 0;
+	border-radius:10px ;
+	display: flex;
+	justify-content:space-evenly ;
+	align-items: center;
+	background-color:white ;
+	margin-top: 25px ;
+	margin-bottom: 25px;
+}
+.senha input{
+ width: 315px;
+  height: 55px;
+  border:0 ;
+  border-radius: 10px;
+  display: flex;
+  justify-content:space-evenly ;
+  align-items: center;
+	background-color:#ffff ;
+	margin-bottom: 25px;
+}
+.email input::placeholder{
+	top: 8px;
+    left: 8px;
+    position: absolute;
+    font-family: "Inter", sans-serif;
+    letter-spacing: 2px;
+}
+.senha input::placeholder{
+	top: 8px;
+    left: 8px;
+    position: absolute;
+    font-family: "Inter", sans-serif;
+    letter-spacing: 2px;
+}
+.btn-entrar{
+	width: 315px;
+  height: 55px;
+  border:0 ;
+  border-radius: 10px;
+  display: flex;
+  justify-content:space-evenly ;
+  align-items: center;
+	background-color:#ffff ;
+	margin-top: 25px ;
+	margin-bottom: 21px;
+}
+.btn-entrar p{
+	font-family: inter;
+	font-weight: 300;
+	font-size: 18pt;
+}
+
+.btn-facebook{
+	width:315px ;
+	height:55px ;
+	border:solid 1px #161A80 ;
+	border-radius: 10px ;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	margin-bottom: 25px;
+	margin-top: 10px;
+	background-color: #161A80;
+}
+.btn-facebook p{
+	font-family: inter;
+	font-weight: 500;
+	margin-right: 40px;
+	font-size: 16px;
+	color: white;
+}
+.btn-facebook img{
+	width:25px ;
+	height: 25px;
+	margin-left: 40px;
+	
+}
+.criar {
+color: #000;
+margin-top: 5px ;
+
+}
+.cadastro p{
+ color: #ffffff;
+ font-size: 50px;
+ left: 8px;
+ margin-bottom: 40px;
+ font-family: "Inter", sans-serif ;
+ font-weight: 600px;
+
+}
+.email2 input{
+	width:315px;
+	height:55px ;
+	border: 0;
+	border-radius:10px ;
+	display: flex;
+	justify-content:space-evenly ;
+	align-items: center;
+	background-color:white ;
+	margin-top: 25px ;
+	margin-bottom: 25px;
+
+}
+.email2 input::placeholder{
+	top: 8px;
+    left: 8px;
+    position: absolute;
+    font-family: "Inter", sans-serif;
+    letter-spacing: 2px;
+}
+.senha2 input{
+	width: 315px;
+	 height: 55px;
+	 border:0 ;
+	 border-radius: 10px;
+	 display: flex;
+	 justify-content:space-evenly ;
+	 align-items: center;
+	   background-color:#ffff ;
+	   margin-bottom: 25px;
+   }
+   .senha2 input::placeholder{
+	top: 8px;
+    left: 8px;
+    position: absolute;
+    font-family: "Inter", sans-serif;
+    letter-spacing: 2px;
+}
+.senha2 input{
+	width: 315px;
+	 height: 55px;
+	 border:0 ;
+	 border-radius: 10px;
+	 display: flex;
+	 justify-content:space-evenly ;
+	 align-items: center;
+	   background-color:#ffff ;
+	   margin-bottom: 25px;
+   }
+   .senha2 input::placeholder{
+	top: 8px;
+    left: 8px;
+    position: absolute;
+    font-family: "Inter", sans-serif;
+    letter-spacing: 2px;
+}
+
+
+.btn-cadastrar{
+	width: 315px;
+  height: 55px;
+  border:0 ;
+  border-radius: 10px;
+  display: flex;
+  justify-content:space-evenly ;
+  align-items: center;
+	background-color:#ffff ;
+	margin-top: 25px ;
+	margin-bottom: 21px;
+}
+.btn-cadastrar p{
+	font-family: inter;
+	font-weight: 300;
+	font-size: 18pt;
+}
+.usuario input{
+	width:315px;
+	height:55px ;
+	border: 0;
+	border-radius:10px ;
+	display: flex;
+	justify-content:space-evenly ;
+	align-items: center;
+	background-color:rgb(245, 245, 245) ;
+	margin-top: 25px;
+	margin-bottom: 25px;
+
+}
+.usuario input::placeholder{
+	top: 8px;
+    left: 8px;
+    position: absolute;
+    font-family: "Inter", sans-serif;
+    letter-spacing: 2px;
+}
+.btn-cadastrar p{
+	margin-top: 5px;
+}
+.login2{
+	width:412px ;
+	height:917px ;
+	border:solid 1px #5c315c;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color:#c444cf;
+	background-image: url('img/cady.png');
+}
+.container1{
+	width: 100;
+	height: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
